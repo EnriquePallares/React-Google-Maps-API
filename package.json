@@ -2,7 +2,7 @@
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://EnriquePallares.github.io/my-app",
+  "homepage": "https://EnriquePallares.github.io/React-Google-Maps-API",
   "dependencies": {
     "@craco/craco": "^6.0.0",
     "@react-google-maps/api": "^2.1.0",
