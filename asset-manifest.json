@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/my-app/static/css/main.d7006e52.chunk.css",
-    "main.js": "/my-app/static/js/main.802813d4.chunk.js",
-    "main.js.map": "/my-app/static/js/main.802813d4.chunk.js.map",
-    "runtime-main.js": "/my-app/static/js/runtime-main.7c8b82df.js",
-    "runtime-main.js.map": "/my-app/static/js/runtime-main.7c8b82df.js.map",
-    "static/js/2.882ee9b4.chunk.js": "/my-app/static/js/2.882ee9b4.chunk.js",
-    "static/js/2.882ee9b4.chunk.js.map": "/my-app/static/js/2.882ee9b4.chunk.js.map",
-    "static/js/3.66d52ee0.chunk.js": "/my-app/static/js/3.66d52ee0.chunk.js",
-    "static/js/3.66d52ee0.chunk.js.map": "/my-app/static/js/3.66d52ee0.chunk.js.map",
-    "index.html": "/my-app/index.html",
-    "static/css/main.d7006e52.chunk.css.map": "/my-app/static/css/main.d7006e52.chunk.css.map",
-    "static/js/2.882ee9b4.chunk.js.LICENSE.txt": "/my-app/static/js/2.882ee9b4.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/my-app/static/media/Nexa Bold.c2b99812.otf"
+    "main.css": "/React-Google-Maps-API/static/css/main.5755087d.chunk.css",
+    "main.js": "/React-Google-Maps-API/static/js/main.802813d4.chunk.js",
+    "main.js.map": "/React-Google-Maps-API/static/js/main.802813d4.chunk.js.map",
+    "runtime-main.js": "/React-Google-Maps-API/static/js/runtime-main.369e6c62.js",
+    "runtime-main.js.map": "/React-Google-Maps-API/static/js/runtime-main.369e6c62.js.map",
+    "static/js/2.882ee9b4.chunk.js": "/React-Google-Maps-API/static/js/2.882ee9b4.chunk.js",
+    "static/js/2.882ee9b4.chunk.js.map": "/React-Google-Maps-API/static/js/2.882ee9b4.chunk.js.map",
+    "static/js/3.66d52ee0.chunk.js": "/React-Google-Maps-API/static/js/3.66d52ee0.chunk.js",
+    "static/js/3.66d52ee0.chunk.js.map": "/React-Google-Maps-API/static/js/3.66d52ee0.chunk.js.map",
+    "index.html": "/React-Google-Maps-API/index.html",
+    "static/css/main.5755087d.chunk.css.map": "/React-Google-Maps-API/static/css/main.5755087d.chunk.css.map",
+    "static/js/2.882ee9b4.chunk.js.LICENSE.txt": "/React-Google-Maps-API/static/js/2.882ee9b4.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/React-Google-Maps-API/static/media/Nexa Bold.c2b99812.otf"
   },
   "entrypoints": [
-    "static/js/runtime-main.7c8b82df.js",
+    "static/js/runtime-main.369e6c62.js",
     "static/js/2.882ee9b4.chunk.js",
-    "static/css/main.d7006e52.chunk.css",
+    "static/css/main.5755087d.chunk.css",
     "static/js/main.802813d4.chunk.js"
   ]
 }
